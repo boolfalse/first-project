@@ -1,0 +1,101 @@
+.notice{
+    display: none;
+    color: red;
+}
+legend{
+    text-align: center;
+}
+/*#country{
+    padding: 7px 20px;
+    margin: auto;
+}*/
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+
+input{
+    display: inline;
+}
+.horizontal-center{
+    margin: auto;
+    text-align: center;
+}
+
+
+
+
+
+/*#reglike :hover{*/
+/*disabled: disabled;*/
+/*}*/
+/*#reglikea{*/
+/*float: left;*/
+/*}*/
+#inreglike{
+    border: 0;
+    background: transparent;
+    width: auto;
+    height: auto;
+    box-shadow: none;
+}
+#betweenreg{
+    width: auto;
+    height: 3px;
+}
+
+
+
+
+/*??????????????????????????????????? inch a es nshanakum */
+@import url('http://getbootstrap.com/dist/css/bootstrap.css');
+.contain {
+    margin-top: 10px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+#dropdown-right{
+    float: right;
+    padding-right: 6%;
+}
+.dropdown{
+    float: right;
+    padding-right: 0;
+}
+.dropdown-toggle{
+    border-radius: 5px;
+}
+
+.navbar, .navbar-inverse, .navbar-fixed-top{
+    background: linear-gradient(cadetblue, #EEEEEE);
+    opacity: 0.8;
+}
+li.dropdown{
+    font: 24px ToxicPowers;
+}
+/*li.logincolor{*/
+    /*background-color: lightgreen;*/
+/*}*/
+/*li.logoutcolor{*/
+    /*background-color: darkslateblue;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
